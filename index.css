@@ -6,3 +6,9 @@ body:before{
     content: '';
     height:70px;
 }
+.input-group{
+    display: block;
+}
+.footer-a{
+    display: block;
+}
