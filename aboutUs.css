@@ -1,0 +1,40 @@
+body {
+  background-color: #e4fbff;
+  margin-left: 10%;
+  margin-right: 10%;
+  line-height: 2;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Source Sans Pro", sans-serif;
+}
+p {
+  font-family: "Work Sans", sans-serif;
+}
+.f-right {
+  float: right;
+  width: 450px;
+  height: 300px;
+  margin-right: 5%;
+  border: 2px solid #161d6f;
+  border-radius: 4%;
+}
+.space {
+  letter-spacing: 0.1rem;
+}
+.bolding {
+  font-weight: bold;
+  font-size: 1.35rem;
+  font-family: "Montserrat", sans-serif;
+}
+.table-para {
+  font-family: "Montserrat", sans-serif;
+}
+i {
+  margin-right: 35px;
+}
+.social {
+  text-align: center;
+}
