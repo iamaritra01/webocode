@@ -1,3 +1,6 @@
+*{
+    font-family: 'poppins',sans-serif;
+}
 body:before{
     display: block;
     content: '';
