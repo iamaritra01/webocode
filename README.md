@@ -48,5 +48,21 @@ Tech Stack-HTML5,CSS3,Bootstrap5
 1)Content:  https://ubtiinc.com/4-healthcare-dashboard-examples/
 	          https://www1.health.gov.au/internet/main/publishing.nsf/Content/PHN-Home
 	          https://www.usfhealthonline.com/resources/key-concepts/what-are-electronic-medical-records-emr/
+	 
+2)Images:   https://unsplash.com/
+	 
+	 
+<!--Who We Are Page-->
+
+1)Content:  https://www.gracehealthmi.org/health-care-mission-vision-values/
+	 
+2)Image: https://media.istockphoto.com/photos/healthcare-workers-portrait-picture-id1284636209?b=1&k=6&m=1284636209&s=170667a&w=0&h=SbVXs9gdwadnvlPafKWFVXrKiL9jx0_XpvKh5DGFoJA=
+	 
+	 
+	 
+	 
+<!--Resource Page-->
+	 
+1)Content:   https://link.springer.com/search/page/3?search-within=Journal&facet-journal-id=12262&query=
 
 
