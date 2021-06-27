@@ -1,21 +1,22 @@
 *{
     font-family: 'poppins',sans-serif;
 }
-body:before{
-    display: block;
-    content: '';
-    height:70px;
-}
+   body:before{
+  display: block;
+  content: '';
+  height:80px;
+   } 
 
+/*
 body {
     margin: 0;
-}
+} */
 
-.body1{
+/* .body1{
     background-color: rgb(197, 223, 231);
     height: 100%;
 
-}
+} */
 
 .text h2 {
     color: rgb(66, 96, 136);
