@@ -42,3 +42,11 @@ body {
     text-decoration: none;
     color:#fff;
 }
+.fab{
+    margin-left:20px;
+
+}
+.fas{
+    margin-right: 10px;
+    font-size:50px;
+}
