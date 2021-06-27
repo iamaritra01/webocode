@@ -6,9 +6,50 @@ body:before{
     content: '';
     height:70px;
 }
+.container-about{
+    box-shadow: 3px 3px 10px rgba(0,0,0,0.2);
+    transition: 0.2s;
+}
+.container-about:hover{
+    box-shadow: 3px 3px 40px rgba(0,0,0,0.2);
+}
+
 .input-group{
     display: block;
 }
-.footer-a{
+.footer-item{
+    text-decoration: none;
+    color:#fff;
+}
+.fab{
+    margin-left:20px;
+
+}
+.fas{
+    margin-right: 10px;
+    font-size:50px;
+}
+.body-img{
+    width:90px;
+    height:90px;
+}
+
+/* .heading::after{
+    content: '';
+    background: #7b1798;
+    height:5px;
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
     display: block;
 }
+.heading::before{
+    content: '';
+    background: #7b1798;
+    height:5px;
+    width:400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+} */
+
