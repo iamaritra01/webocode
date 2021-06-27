@@ -40,6 +40,8 @@ Tech Stack-HTML5,CSS3,Bootstrap5
       crossorigin="anonymous"
     ></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div>Icons made by <a href="https://www.freepik.com/" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>
+<a href="https://icons8.com/icon/13458/system-information%22%3E</a>
 
 <!--Main Page:-->
 
